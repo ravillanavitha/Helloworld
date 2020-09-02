@@ -1,0 +1,38 @@
+[33mcommit b3dfa1ac93bee0e86d27e49f1744288a925d95b8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: 1.0.0[m[33m, [m[1;31morigin/test-merge[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: navitharavilla <navitharav@gmail.com>
+Date:   Tue Sep 1 22:15:29 2020 -0400
+
+    added a new file
+
+[33mcommit 0fd577b77584f1e7879d0b63e897dbc02a3b56b5[m
+Merge: f254027 9a44e38
+Author: ravillanavitha <70610281+ravillanavitha@users.noreply.github.com>
+Date:   Tue Sep 1 20:50:41 2020 -0400
+
+    Merge pull request #1 from ravillanavitha/feature_1
+    
+    feature_1 changes
+
+[33mcommit 9a44e381c1f7bc8bc79e058fcd8c14c5ab1eb831[m[33m ([m[1;31morigin/feature_1[m[33m)[m
+Author: navitharavilla <navitharav@gmail.com>
+Date:   Tue Sep 1 20:40:54 2020 -0400
+
+    feature_1 changes
+
+[33mcommit f25402729b512c678bb0fef20ec07afef785bc04[m
+Author: navitharavilla <navitharav@gmail.com>
+Date:   Tue Sep 1 20:03:45 2020 -0400
+
+    2nd commit adding new file
+
+[33mcommit 1af319119245c764044d0e9e9df0dca9ee83d5d9[m[33m ([m[1;33mtag: 1.0.1[m[33m)[m
+Author: navitharavilla <navitharav@gmail.com>
+Date:   Tue Sep 1 19:46:01 2020 -0400
+
+    1st commit
+
+[33mcommit 2a1c54f6e9fb3906f4f1bdf686c89f289a645600[m
+Author: ravillanavitha <70610281+ravillanavitha@users.noreply.github.com>
+Date:   Tue Sep 1 19:05:02 2020 -0400
+
+    Initial commit
