@@ -12,6 +12,4 @@
 
 2nd message to trigger jenkins build
 
-1st change for building PR
-
-2nd change for building PR
+changes for pr builder
